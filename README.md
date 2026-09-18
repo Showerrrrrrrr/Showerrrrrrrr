@@ -19,8 +19,3 @@ A project I've been working on to identify birds!
 - 💻 Writing cleaner, more efficient code
 - ➗ Math
 - 🏀 Basketball skills (on and off the court 😄)
-
----
-
-## Let's Connect
-[Instagram](https://www.instagram.com/junhinpung/)
